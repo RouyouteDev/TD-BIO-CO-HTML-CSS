@@ -420,34 +420,7 @@ footer{
     display: flex;
     flex-direction: column;
   }
-
   header{
-    display: block;
-    justify-content: none;
-    align-items: center;
-    nav ul{
-      text-align: center;
-      margin-left: 10%;
-      flex-direction: row;
-      li{
-        width: 25vw;
-      }
-    }
-    .right-head{
-      margin: 2%;
-      ul{
-        display: flex;
-        align-items: center;
-        li{
-          text-align: center;
-          width: 25vw;
-          margin: 2%;
-          padding: 10px 15px;
-        }
-        li:last-child{
-          border-radius: 10px;
-        }
-      }
-    }
+    font-size: 0.5em;
   }
 }
